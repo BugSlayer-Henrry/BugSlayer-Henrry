@@ -47,14 +47,14 @@
 </a><a href="https://ko-fi.com/0x_7E7">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayer-henrry&show_icons=true&locale=en&layout=compact" alt="bugslayer-henrry" /></p>
-<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0x_7E7" /></a>
+
+
 </p><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugslayer-henrry&show_icons=true&locale=en" alt="bugslayer-henrry" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayer-henrry&show_icons=true&locale=en&layout=compact" alt="bugslayer-henrry" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugslayer-henrry&" alt="bugslayer-henrry" /></p>
 
-
+<img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="0x_7E7" /></a>
 
 
 
