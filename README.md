@@ -1,9 +1,3 @@
-
-
-<!--
-**BugSlayer-Henrry/BugSlayer-Henrry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
 <h1 align="center">hola 👋 soy Henrry</h1>
 <h3 align="center">Un apasionado desarrollador backend y frontend de Perú</h3>
 
@@ -65,12 +59,8 @@ h3 align="left">Idiomas y Herramientas:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugslayer-henrry&" alt= "bugslayer-henrry" /></p>
 
+<!----
 
-Aquí hay algunas ideas para comenzar:
-- 🔭 Actualmente estoy trabajando en... AYP INTERNACIONAL
-- 🌱 Actualmente estoy aprendiendo... JAVA, C# ENTRE OTRAS TECNOLOGIAS
-- 👯 Estoy buscando colaborar en ... HACKING BLUE TEAM OR RED TEAM
-- 📫 Cómo llegar a mí: ...0x6gf4@protonmail.com
 - [Página personal](https://stardev.io/developers/0xH01I)
 - [Wakatime](https://wakatime.com/@0xH01I)
 - [Enlace a mi bio](https://0xh01i.bio.link/)
@@ -93,14 +83,6 @@ Achievements
 
 ## 🙋 ♂️ Acerca de mí
 
-<p>
-  <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-  <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;7+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
-
-  Como ingeniero de software sincero y confiable, un aprendiz apasionado y un aspirante a creador de contenido que está familiarizado con la tecnología Blockchain y tiene experiencias de desarrollo de pila completa de más de 7 años, obtuve habilidades esenciales para el desarrollo de aplicaciones web para el trabajo posterior de varios aspectos.<br>
-  La fuerza de mí es que soy **Siempre sensible** a las tecnologías modernas y **Abierto a cosas nuevas**. El trabajo anterior muestra que entiendo y encarno las necesidades de los clientes y soy creativo por mi cuenta.<br>
-  Creo que mi mayor placer es **Construir y Mantener Confianzas** con todos mis clientes.<br>
-  Me alegra decir que mi objetivo es ser el desarrollador orientado al cliente **perfecto**.
 
 </p>
 ### 🍯 Pila técnica
@@ -133,13 +115,7 @@ Como desarrollador, creo en la importancia del aprendizaje continuo y la mejora 
 - Explorando técnicas avanzadas de optimización de rendimiento y escalabilidad.
 
 ### 📫 Contáctame
-
-Si estás interesado en colaborar en proyectos o tienes alguna pregunta, no dudes en contactarme a través de los siguientes medios:
-
-- Correo electrónico: [tu-email@example.com](mailto:tu-email@example.com)
-- Sitio web: [mi-sitio-web.com](https://mi-sitio-web.com)
-- Perfil de LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- Perfil de GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
+-->
 
 
 
