@@ -49,7 +49,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="40" height="40"/>
   <img src="https://responsively.app/assets/img/logo.svg" alt="ResponsivelyApp" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/398a87657a2d20ea2a1b1b37f46d319d417fa2f5/68747470733a2f2f72686170736f64792e696f2f6173736574732f6c6f676f2d6e6176696361746f722e737667" alt="StarUML" width="40" height="40"/>
   <img src="https://www.ibm.com/brand/systems/z/education/img/product-image-rhapsody-031-1441x1441.png" alt="Rhapsody IBM" width="40" height="40"/>
   <img src="https://www.modeler31.com/img/logo_modeler31.png" alt="Modeler031" width="40" height="40"/>
   <img src="https://kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
