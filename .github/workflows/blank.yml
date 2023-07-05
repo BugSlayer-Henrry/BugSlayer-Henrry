@@ -1,0 +1,24 @@
+name: Perfiles Visitantes
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  record_views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Update views
+        run: |
+          echo "$(date +%Y-%m-%d:%H:%M:%S) ${{ github.actor }}" >> profile_views.txt
+
+      - name: Save views
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add profile_views.txt
+          git commit -m "Actualiza lista de perfiles visitantes [skip ci]"
+          git push
