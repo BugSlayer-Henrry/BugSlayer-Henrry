@@ -30,7 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="Cisco" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
@@ -38,36 +37,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original-wordmark.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="Virtual Box" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="GlitchD" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="40" height="40"/>
   <img src="https://responsively.app/assets/img/logo.svg" alt="ResponsivelyApp" width="40" height="40"/>
-  <img src="https://www.ibm.com/brand/systems/z/education/img/product-image-rhapsody-031-1441x1441.png" alt="Rhapsody IBM" width="40" height="40"/>
-  <img src="https://www.modeler31.com/img/logo_modeler31.png" alt="Modeler031" width="40" height="40"/>
   <img src="https://kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://linuxmint.com/img/logos/linuxmint-logo.svg" alt="Linux Mint" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" width="40" height="40"/>
-  <img src="https://www.yworks.com/assets/images/products/yed/yEd_icon_256px.png" alt="YED" width="40" height="40"/>
-  <img src="https://camunda.com/wp-content/uploads/2018/10/camunda_logo_rgb-1024x263.png" alt="Camunda" width="40" height="40"/>
-  <img src="https://www.navicat.com/assets/images/icons/navicat-logo-dark.svg" alt="Navicat" width="40" height="40"/>
-  <img src="https://www.nirsoft.net/utils/runasdate.png" alt="RunAsDate" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/balsamiq.svg" alt="Balsamiq Wireframes" width="40" height="40"/>
-  <img src="https://www.madebysource.com/wp-content/uploads/2020/07/canvas-logo.png" alt="Canvas" width="40" height="40"/>
-  <img src="https://www.netbeans.org/images/visual/logo50x50.png" alt="NetBeans" width="40" height="40"/>
-  <img src="https://www.pendrivelinux.com/yumi/yumi-multiboot.png" alt="YUMI" width="40" height="40"/>
-  <img src="https://www.wireshark.org/assets/images/logo/wireshark-logo-220x230.png" alt="Wireshark" width="40" height="40"/>
-  <img src="https://www.deefreezem.eu/_/rsrc/1468743037767/config/customLogo.gif" alt="DeedFreezem" width="40" height="40"/>
-  <img src="https://portswigger.net/content/images/resized/000000/0000000-1920-1080-18-burp-suite-logo.png" alt="Burp Suite" width="40" height="40"/>
-</p>
-
-
+ 
 
 
 
