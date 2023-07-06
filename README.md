@@ -42,9 +42,7 @@
 <h3 align="left">Support:</h5>
 
 <p>
-
-
-  <a href="https://www.buymeacoffee.com/BugSlayerHenrry"><img src="https://img.buymeacoffee.com/button-api/?text=Cómprame una Pizza&emoji=&slug=🍕 BugSlayerHenrry&button_colour=ad3805&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+ <a href="https://www.buymeacoffee.com/BugSlayerHenrry"><img src="https://img.buymeacoffee.com/button-api/?text=Cómprame una Pizza&emoji=&slug=🍕 BugSlayerHenrry&button_colour=ad3805&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 </p>
 <br>
@@ -55,17 +53,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayer-henrry&show_icons=true&locale=en&layout=compact" alt="bugslayer-henrry" /></p><br>
 
 
-<!----
-
-- [Página personal](https://stardev.io/developers/0xH01I)
-- [Wakatime](https://wakatime.com/@0xH01I)
-- [Enlace a mi bio](https://0xh01i.bio.link/)
 
 Achievements
 - 😄 Pronombres: ...BugSlayer-Henrry
 - ⚡ Dato curioso: ... Soy apasionado de la ciberseguridad y el hacking ético
 
----
+
 
 ## 🤗 Bienvenido
 
@@ -111,7 +104,7 @@ Como desarrollador, creo en la importancia del aprendizaje continuo y la mejora 
 - Explorando técnicas avanzadas de optimización de rendimiento y escalabilidad.
 
 ### 📫 Contáctame
--->
+
 
 
 
