@@ -47,7 +47,7 @@
 </p>
 
   <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugslayer-henrry&show_icons=true&locale=en" alt="bugslayer-henrry" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugslayer-henrry&show_icons=true&locale=en" alt="bugslayer-henrry" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayer-henrry&show_icons=true&locale=en&layout=compact" alt="bugslayer-henrry" />
 </p>
 <br><br>
 <p>
