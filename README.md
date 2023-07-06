@@ -42,9 +42,9 @@
 <h3 align="left">Support:</h5>
 
 <p>
-<a href="https://www.buymeacoffee.com/0x_7E7"> 
+<a href="https://www.buymeacoffee.com/BugSlayerHenrry"> 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0x_7E7" />
-</a><a href="https://ko-fi.com/0x_7E7">
+
 
 
 
