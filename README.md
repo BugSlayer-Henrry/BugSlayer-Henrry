@@ -21,7 +21,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/0x_7e7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x_7e7" height="30" width="40" /></a>
+<a href="https://twitter.com/BugSlayerHenrry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BugSlayerHenrry" height="30" width="40" /></a>
 <a href="https://www.facebook.com/W8lF01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <p>
 <a href="https://www.buymeacoffee.com/BugSlayerHenrry"> 
-<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0x_7E7" />
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BugSlayerHenrry" />
 </p>
 
   <br><br>
