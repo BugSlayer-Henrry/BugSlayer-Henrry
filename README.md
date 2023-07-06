@@ -27,7 +27,7 @@
 
 ### 🍯 Conocimientos
 
-- Lenguajes de programación: JavaScript, HTML, CSS, Python
+- Lenguajes de programación: JavaScript, HTML, CSS, C#, java, TS
 - Frameworks y librerías: AngularJS
 - Bases de datos: MySQL, MongoDB, PostgreSQL, SQLServer
 - Herramientas de control de versiones: Git, GitHub, Bitbucket
