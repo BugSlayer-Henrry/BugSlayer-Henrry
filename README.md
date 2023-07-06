@@ -42,8 +42,10 @@
 <h3 align="left">Support:</h5>
 
 <p>
-<a href="https://www.buymeacoffee.com/BugSlayerHenrry"> 
-<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BugSlayerHenrry" />
+
+
+  <a href="https://www.buymeacoffee.com/BugSlayerHenrry"><img src="https://img.buymeacoffee.com/button-api/?text=Cómprame una Pizza&emoji=&slug=🍕 BugSlayerHenrry&button_colour=ad3805&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
 </p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugslayer-henrry&show_icons=true&locale=en" alt="bugslayer-henrry" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugslayer-henrry&" alt="bugslayer-henrry" />
@@ -51,9 +53,6 @@
 <br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayer-henrry&show_icons=true&locale=en&layout=compact" alt="bugslayer-henrry" /></p><br>
-
-  <a href="https://www.buymeacoffee.com/BugSlayerHenrry"><img src="https://img.buymeacoffee.com/button-api/?text=Cómprame una Pizza&emoji=&slug=🍕 BugSlayerHenrry&button_colour=ad3805&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
-
 
 
 <!----
