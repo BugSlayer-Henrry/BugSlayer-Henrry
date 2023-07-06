@@ -52,6 +52,8 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayer-henrry&show_icons=true&locale=en&layout=compact" alt="bugslayer-henrry" /></p><br>
 
+  <a href="https://www.buymeacoffee.com/BugSlayerHenrry"><img src="https://img.buymeacoffee.com/button-api/?text=Cómprame una Pizza&emoji=&slug=🍕 BugSlayerHenrry&button_colour=ad3805&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
 
 
 <!----
