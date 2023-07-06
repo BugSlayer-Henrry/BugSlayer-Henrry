@@ -23,6 +23,39 @@
 <a href="https://www.facebook.com/W8lF01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
+
+
+### 🍯 Conocimientos
+
+- Lenguajes de programación: JavaScript, HTML, CSS, Python
+- Frameworks y librerías: AngularJS
+- Bases de datos: MySQL, MongoDB, PostgreSQL, SQLServer
+- Herramientas de control de versiones: Git, GitHub, Bitbucket
+- Herramientas de desarrollo: Visual Studio Code, Sublime Text, Atom,  Visual Studio, Eclipse, NetBeans
+- Sistemas operativos: Windows, Linux
+- Metodologías ágiles: Scrum, Kanban
+- Otras tecnologías: Firebase, Docker, Heroku, Glitch
+
+### 🚀 Experiencia
+
+- Desarrollador web full-stack estudiando en Computación e informática durante 3 años.
+- Trabajo en equipo y colaboración con diseñadores y otros desarrolladores para crear y mantener aplicaciones web de alta calidad.
+- Participación en proyectos de desarrollo de aplicaciones móviles y Web utilizando MVC entre otros
+- Experiencia en el diseño y desarrollo de API RESTful .
+- Conocimientos en seguridad web y buenas prácticas de desarrollo seguro.
+- Participación activa en la comunidad de desarrollo, asistiendo a conferencias y manteniéndome actualizado sobre las últimas tendencias y tecnologías.
+
+### 🌱 Aprendizaje continuo
+
+Como desarrollador, creo en la importancia del aprendizaje continuo y la mejora constante. 
+Algunas áreas en las que estoy enfocando mi aprendizaje actualmente incluyen:
+
+- Desarrollo de aplicaciones móviles nativas utilizando Kotlin.
+- Aprendiendo más sobre el desarrollo ciberseguridad .
+- Mejorando mis habilidades en el diseño de interfaces de usuario y experiencia de usuario (Wireframes).
+- Explorando técnicas avanzadas de optimización de rendimiento y escalabilidad.
+
+
 <h3 align="left">🏷 Idiomas y herramientas:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
@@ -52,56 +85,6 @@
 
 
 
-Achievements
-- 😄 Pronombres: ...BugSlayer-Henrry
-- ⚡ Dato curioso: ... Soy apasionado de la ciberseguridad y el hacking ético
-
-
-
-## 🤗 Bienvenido
-
-<p align=center>
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=mmesser-rr&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=mmesser-rr&theme=onedark" />
-  <br><br><br>
-</p>
-
-<br><br><br>
-
-## 🙋 ♂️ Acerca de mí
-
-
-</p>
-### 🍯 Pila técnica
-
-- Lenguajes de programación: JavaScript, HTML, CSS, Python
-- Frameworks y librerías: React.js, AngularJS, Vue.js, Express.js
-- Bases de datos: MySQL, MongoDB, PostgreSQL
-- Herramientas de control de versiones: Git, GitHub, Bitbucket
-- Herramientas de desarrollo: Visual Studio Code, Sublime Text, Atom
-- Sistemas operativos: Windows, Linux, macOS
-- Metodologías ágiles: Scrum, Kanban
-- Otras tecnologías: Firebase, Docker, AWS, Heroku
-
-### 🚀 Experiencia
-
-- Desarrollador web full-stack en una agencia de desarrollo de software durante 4 años.
-- Trabajo en equipo y colaboración con diseñadores y otros desarrolladores para crear y mantener aplicaciones web de alta calidad.
-- Participación en proyectos de desarrollo de aplicaciones móviles utilizando tecnologías híbridas como React Native.
-- Experiencia en el diseño y desarrollo de API RESTful y GraphQL.
-- Conocimientos en seguridad web y buenas prácticas de desarrollo seguro.
-- Participación activa en la comunidad de desarrollo, asistiendo a conferencias y manteniéndome actualizado sobre las últimas tendencias y tecnologías.
-
-### 🌱 Aprendizaje continuo
-
-Como desarrollador, creo en la importancia del aprendizaje continuo y la mejora constante. Algunas áreas en las que estoy enfocando mi aprendizaje actualmente incluyen:
-
-- Desarrollo de aplicaciones móviles nativas utilizando Swift y Kotlin.
-- Aprendiendo más sobre el desarrollo de contratos inteligentes en blockchain.
-- Mejorando mis habilidades en el diseño de interfaces de usuario y experiencia de usuario.
-- Explorando técnicas avanzadas de optimización de rendimiento y escalabilidad.
-
-### 📫 Contáctame
 
 
 
