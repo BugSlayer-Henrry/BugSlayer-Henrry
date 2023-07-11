@@ -33,7 +33,7 @@
 - Herramientas de control de versiones: Git, GitHub, Bitbucket
 - Herramientas de desarrollo: Visual Studio Code, Sublime Text, Atom,  Visual Studio, Eclipse, NetBeans
 - Sistemas operativos: Windows, Linux
-- Metodologías ágiles: Scrum, Kanban
+- Metodologías ágiles: Scrum
 - Otras tecnologías: Firebase, Docker, Heroku, Glitch
 
 ### 🚀 Experiencia
@@ -56,7 +56,7 @@ Algunas áreas en las que estoy enfocando mi aprendizaje actualmente incluyen:
 - Explorando técnicas avanzadas de optimización de rendimiento y escalabilidad.
 
 
-<h3 align="left">🏷 Idiomas y herramientas:</h3>
+<h3 align="left">🏷 Lenguajes de Programación y herramientas:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
