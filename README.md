@@ -20,9 +20,10 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/BugSlayerHenrry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BugSlayerHenrry" height="30" width="40" /></a>
+  
 <a href="https://www.facebook.com/W8lF01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 
-<a href="https://tryhackme.com/p/0xDrHI" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/0xDrHI.png" alt="TryHackMe"> height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/0xDrHI" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/0xDrHI.svg" alt="TryHackMe" height="30" width="40" /></a>
 </p>
 
 
