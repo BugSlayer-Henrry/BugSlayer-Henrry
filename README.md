@@ -60,7 +60,8 @@ Algunas áreas en las que estoy enfocando mi aprendizaje actualmente incluyen:
 - Mejorando mis habilidades en el diseño de interfaces de usuario y experiencia de usuario (Wireframes).
 - Explorando técnicas avanzadas de optimización de rendimiento y escalabilidad.
 
-<div style="background-color: white; padding: 20px;">
+|                    |                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------- |
 
 <h3 align="left">🏷 Lenguajes de Programación y herramientas:</h3>
 <p align="left">
