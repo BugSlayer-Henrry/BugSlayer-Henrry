@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=bugslayer-henrry&label=Profile%20views&color=0e75b6&style=flat" alt="bugslayer-henrry"/> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=bugslayer-henrry" alt="bugslayer-henrry"/>
-</p>
+   </a></p>
 
 - 🔭 Actualmente estoy trabajando en [proyectweb](https://github.com/BugSlayer-Henrry/WebApp)
 
