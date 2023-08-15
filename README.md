@@ -5,7 +5,7 @@
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=bugslayer-henrry" alt="bugslayer-henrry"/>
-</a> </p>
+</a> </p> <p align="left"> </p>
 
 - 🔭 Actualmente estoy trabajando en [proyectweb](https://github.com/BugSlayer-Henrry/WebApp)
 
