@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Henrry pero me puedes nombrar como (BugSlayer) </h1>
+<h1 align="rith">Hola 👋 soy Henrry pero me puedes nombrar como (BugSlayer) </h1>
 <h3 align="center">Un apasionado desarrollador backend, frontend, Ciberseguridad y Étical Hacking en Perú</h3>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=bugslayer-henrry&label=Profile%20views&color=0e75b6&style=flat" alt="bugslayer-henrry" /> </p>
