@@ -23,7 +23,7 @@
   
 <a href="https://www.facebook.com/W8lF01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 
-<a href="https://tryhackme.com/p/0xDrHI" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/0xDrHI.png" alt="TryHackMe" height="98" width="150" /></a>
+<a href="https://tryhackme.com/p/0xDrHI" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/0xDrHI.png" alt="TryHackMe" height="98" width="50" /></a>
 </p>
 
 
