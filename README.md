@@ -60,8 +60,6 @@ Algunas áreas en las que estoy enfocando mi aprendizaje actualmente incluyen:
 - Mejorando mis habilidades en el diseño de interfaces de usuario y experiencia de usuario (Wireframes).
 - Explorando técnicas avanzadas de optimización de rendimiento y escalabilidad.
 
-|                    |                                                                                   |
-| ------------------ | --------------------------------------------------------------------------------- |
 
 <h3 align="left">🏷 Lenguajes de Programación y herramientas:</h3>
 <p align="left">
@@ -88,10 +86,3 @@ Algunas áreas en las que estoy enfocando mi aprendizaje actualmente incluyen:
 <br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugslayer-henrry&show_icons=true&locale=en&layout=compact" alt="bugslayer-henrry" /></p><br>
-
-
-
-
-
-
-
