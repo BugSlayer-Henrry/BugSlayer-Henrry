@@ -15,7 +15,7 @@
 
 - 📝 Regularmente escribo artículos en [https://stardev.io/developers/0xH01I](https://stardev.io/developers/0xH01I)
 
-- 📫 Cómo contactarme **0x6gf4@protonmail.com**
+- 📫 Cómo contactarme **HenrryOSINT@protonmail.com**
 
 - 📄 Conoce mis experiencias [https://stardev.io/developers/0xH01I](https://stardev.io/developers/0xH01I)
 
