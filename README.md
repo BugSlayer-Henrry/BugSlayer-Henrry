@@ -13,7 +13,6 @@
 - 📫 Contáctame en **HenrryOSINT@protonmail.com**
 - 📄 Conoce más sobre mi experiencia en [StarDev](https://stardev.io/developers/BugSlayer-Henrry)
 <a href="https://stardev.io/developers/BugSlayer-Henrry"><img alt="Check out BugSlayer-Henrry&apos;s profile on stardev.io" src="https://stardev.io/developers/BugSlayer-Henrry/badge/languages/locality.svg" /></a>
-
 - ⚡ Dato curioso: **Soy Egresado Técnico superior de Computación e Informática De CIBERTEC**
 - También : **Estudiante de Ing. De Sistemas en la UPC,LIMA,LIMA,PERÚ**
 
