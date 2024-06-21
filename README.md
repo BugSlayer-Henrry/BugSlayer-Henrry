@@ -12,7 +12,8 @@
 - 👨‍💻 Todos mis proyectos están disponibles en [WakaTime](https://wakatime.com/@BugSlayer)
 - 📫 Contáctame en **HenrryOSINT@protonmail.com**
 - 📄 Conoce más sobre mi experiencia en [StarDev](https://stardev.io/developers/BugSlayer-Henrry)
-- ⚡ Dato curioso: **Soy Egresado Técnico superior de Computación e Informática en Perú** y **Estudiante de Ing. De Sistemas en la UPC,LIMA,LIMA,PERÚ**
+- ⚡ Dato curioso: **Soy Egresado Técnico superior de Computación e Informática De CIBERTEC**
+- También : **Estudiante de Ing. De Sistemas en la UPC,LIMA,LIMA,PERÚ**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
