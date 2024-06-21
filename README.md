@@ -11,7 +11,8 @@
 - 🌱 Aprendiendo **Ciberseguridad y Hacking Ético**
 - 👨‍💻 Todos mis proyectos están disponibles en [WakaTime](https://wakatime.com/@BugSlayer)
 - 📫 Contáctame en **HenrryOSINT@protonmail.com**
-- 📄 Conoce más sobre mi experiencia en [StarDev](https://stardev.io/developers/BugSlayer-Henrry)<a href="https://stardev.io/developers/BugSlayer-Henrry"><img alt="Check out BugSlayer-Henrry's profile on stardev.io" src="https://stardev.io/developers/BugSlayer-Henrry/badge/languages/country.svg" /></a>
+- 📄 Conoce más sobre mi experiencia en [StarDev](https://stardev.io/developers/BugSlayer-Henrry)
+- <a align="left" href="https://stardev.io/developers/BugSlayer-Henrry"><img alt="Check out BugSlayer-Henrry's profile on stardev.io" src="https://stardev.io/developers/BugSlayer-Henrry/badge/languages/country.svg" /></a>
 - ⚡ Dato curioso: **Soy Egresado Técnico superior de Computación e Informática De CIBERTEC**
 - También : **Estudiante de Ing. De Sistemas en la UPC,LIMA,LIMA,PERÚ**
 
