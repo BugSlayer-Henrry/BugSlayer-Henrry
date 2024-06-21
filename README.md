@@ -18,11 +18,12 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://www.facebook.com/W8lF01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://tryhackme.com/p/0xDrHI" target="blank">
-    <script src="https://tryhackme.com/badge/933234"></script>
-
-
+  <iframe src="https://tryhackme.com/badge/933234" width="250" height="60" frameborder="0"></iframe>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=bugslayer-henrry" alt="Trophy" />
+  </a>
 </p>
+
 
 ### 🍯 Conocimientos
 
