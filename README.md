@@ -19,7 +19,7 @@
 <p align="left">
   <a href="https://www.facebook.com/W8lF01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://tryhackme.com/p/0xDrHI" target="blank">
-    <script align="center" src="https://tryhackme.com/badge/933234" alt="TryHackMe" height="48" width="210" </a> ></script>
+    <script src="https://tryhackme.com/badge/933234"></script>
 
 
 </p>
