@@ -22,7 +22,7 @@
 
 <a href="https://www.linkedin.com/in/bugslayer-henrry" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" /></a>
 
-<a href="https://tryhackme.com/p/0xDrHI" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/BugSlay3r.png" alt="TryHackMe" height="48" width="210" /></a>
+<a href="https://tryhackme.com/p/BugSlay3r" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/BugSlay3r.png" alt="TryHackMe" height="48" width="210" /></a>
 </p>
 
 ### 🍯 Conocimientos
