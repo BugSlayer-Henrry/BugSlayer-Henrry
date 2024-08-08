@@ -22,8 +22,7 @@
 
 <a href="https://tryhackme.com/p/0xDrHI" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/BugSlay3r.png" alt="TryHackMe" height="48" width="210" /></a>
 </p>
-
-<a href="https://www.linkedin.com/in/bugslayer-henrry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedIn.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bugslayer-henrry" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" /></a>
 
 
 
