@@ -22,7 +22,7 @@
 
 <a href="https://tryhackme.com/p/0xDrHI" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/BugSlay3r.png" alt="TryHackMe" height="48" width="210" /></a>
 </p>
-
+Sígueme en LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bugslayer-henrry
       <style>
         .libutton {
           display: flex;
