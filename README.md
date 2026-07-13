@@ -77,7 +77,7 @@ Building open-source cybersecurity tools for penetration testers, security audit
 ┌──(bugslayer㉿github)-[~/profile]
 └─$ whoami
 
-Henrry "BugSlayer" Bolaños
+Henrry "BugSlayer"
 
 ┌──(bugslayer㉿github)-[~/profile]
 └─$ role
