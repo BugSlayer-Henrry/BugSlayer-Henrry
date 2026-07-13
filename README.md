@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-Hi 👋 I'm Henrry "BugSlayer" Bolaños
+Hi 👋 I'm Henrry "BugSlayer"
 </h1>
 
 <h3 align="center">
