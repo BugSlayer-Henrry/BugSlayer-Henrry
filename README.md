@@ -63,7 +63,7 @@ Building open-source cybersecurity tools for penetration testers, security audit
 
 <td width="32%" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/96641394?v=4" width="240" style="border-radius:50%;">
+
 
 <br><br>
 
