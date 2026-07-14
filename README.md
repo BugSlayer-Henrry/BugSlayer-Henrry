@@ -3,7 +3,7 @@
 # Henrry "BugSlayer"
 ### Cybersecurity Analyst | Penetration Tester | Offensive Security Researcher
 
-Building Open Source Tools to automate and streamline security assessments.
+*Building Open Source Tools to automate and streamline security assessments.*
 
 <br>
 
@@ -15,8 +15,8 @@ Building Open Source Tools to automate and streamline security assessments.
 
 ---
 
-## 🚀 About Me
-Cybersecurity enthusiast and developer focused on **Offensive Security**. Currently creating practical, open-source automation tools designed to assist penetration testers, security auditors, and red teams.
+## 🎯 Profile Overview
+Cybersecurity enthusiast and developer focused on **Offensive Security**. I develop practical automation tools for penetration testers, security auditors, and red teams.
 
 *   **Role:** Systems Engineering Student @ UPC
 *   **Leadership:** Director @ IEEE WIE UPC | Founder @ WOLFSEC
@@ -24,46 +24,49 @@ Cybersecurity enthusiast and developer focused on **Offensive Security**. Curren
 
 ---
 
-## 🛠 Areas of Expertise
-*   **Offensive Security:** Web & API Pentesting, Infrastructure Security, Red Team.
-*   **Specializations:** Threat Intelligence, OSINT, Cloud Security (AWS/GCP), Mobile App Security.
-*   **Automation:** Scripting for vulnerability scanning and workflow optimization.
+## 🛡️ Offensive Security Arsenal
+| Category | Expertise |
+| :--- | :--- |
+| **Offensive** | Web/API Pentesting, Red Team, Infra Security |
+| **Specialization** | Threat Intel, OSINT, Cloud Security (AWS/GCP) |
+| **Standards** | OWASP Top 10, ASVS, MITRE ATT&CK, PTES, NIST |
+
+---
+
+## 🏆 GitHub Achievements & Stats
+<div align="center">
+
+<!-- Trofeos de GitHub -->
+<img src="https://github-profile-trophy.vercel.app/?username=BugSlayer-Henrry&theme=algolia&no-frame=true&row=1&column=5"/>
+
+<!-- Estadísticas principales -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BugSlayer-Henrry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=BugSlayer-Henrry&theme=tokyonight&hide_border=true"/>
+
+<!-- Lenguajes más usados -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugSlayer-Henrry&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📈 Activity & Impact
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugSlayer-Henrry&theme=tokyo-night&hide_border=true"/>
+</div>
 
 ---
 
 ## 💻 Tech Stack
 *   **Languages:** Python, Bash, PowerShell, Java, C#, TypeScript.
-*   **Offensive Arsenal:** Burp Suite Pro, Metasploit, Impacket, Nmap, Nuclei, Hashcat, Wireshark, Docker.
-*   **Standards:** OWASP (Top 10, ASVS, MASVS), MITRE ATT&CK, NIST CSF, PTES.
-
----
-
-## 📂 Featured Projects
-I develop tools to simplify security assessments. Featured repositories:
-
-| Project | Focus |
-| :--- | :--- |
-| **Offensive Toolkit** | Scripts for Red Team & Infrastructure Audits |
-| **Web Security Suite** | Automated scanners for OWASP Top 10 |
-| **Automation Scripts** | Custom utilities for penetration testing workflows |
-
----
-
-## 📈 Stats & Certifications
-*   **Learning Focus:** Active Directory Security, Malware Analysis, Detection Engineering.
+*   **Tools:** Burp Suite Pro, Metasploit, Impacket, Nmap, Nuclei, Hashcat, Docker.
 *   **Certifications:** IBM Cybersecurity Analyst, Google IT Support, Cisco Networking Academy.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BugSlayer-Henrry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BugSlayer-Henrry&theme=tokyonight&hide_border=true" width="45%"/>
-</div>
-
 ---
 
 <div align="center">
 
-### ✉️ Contact
-**Email:** [Henrrybr@protonmail.com](mailto:Henrrybr@protonmail.com)
+### ✉️ Contact & Support
+[Henrrybr@protonmail.com](mailto:Henrrybr@protonmail.com)
 
 *"The best way to predict an attack is to think like the attacker."*
 
