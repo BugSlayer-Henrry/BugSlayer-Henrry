@@ -33,34 +33,6 @@ Cybersecurity enthusiast and developer focused on **Offensive Security**. I deve
 
 ---
 
-## 🏆 GitHub Achievements & Stats
-<div align="center">
-
-<!-- Trofeos de GitHub (Rutas corregidas y optimizadas para 2026) -->
-<img src="https://github-profile-trophy.vercel.app/?username=BugSlayer-Henrry&theme=algolia&no-frame=true&row=1&column=4"/>
-
-<br>
-<br>
-
-<!-- Estadísticas principales (Tema Tokyo Night para visibilidad) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BugSlayer-Henrry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=BugSlayer-Henrry&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<!-- Lenguajes más usados -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugSlayer-Henrry&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 📈 Activity & Impact
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugSlayer-Henrry&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
 ## 💻 Tech Stack
 *   **Languages:** Python, Bash, PowerShell, Java, C#, TypeScript.
 *   **Tools:** Burp Suite Pro, Metasploit, Impacket, Nmap, Nuclei, Hashcat, Wireshark, Docker.
@@ -70,7 +42,7 @@ Cybersecurity enthusiast and developer focused on **Offensive Security**. I deve
 
 <div align="center">
 
-### ✉️ Contact & Support
+### ✉️ Contact
 [Henrrybr@protonmail.com](mailto:Henrrybr@protonmail.com)
 
 *"The best way to predict an attack is to think like the attacker."*
