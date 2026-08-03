@@ -191,18 +191,6 @@ Help students become better security professionals
 - 🚩 Capture The Flag Challenges
 
 ---
-
-# 🎯 2026 Goals
-
-- Develop high-quality offensive security tools
-- Publish practical pentesting utilities
-- Expand BugSlayer API
-- Contribute to the cybersecurity community
-- Share technical research and write-ups
-- Continue improving offensive security skills
-- Collaborate on open-source security projects
-
----
 # <img width="28" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"> Technical Skills
 
 <table>
@@ -1183,29 +1171,7 @@ If any of my tools or resources help you during your assessments, consider suppo
 
 </div>
 
----
 
-# 💚 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BugSlayer-Henrry&style=for-the-badge&color=brightgreen"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable this after creating the GitHub Action.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BugSlayer-Henrry/BugSlayer-Henrry/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # ⚡ Terminal
 
